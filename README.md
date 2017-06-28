@@ -19,5 +19,10 @@ edit these to point at the paths on your system
 Analysis/
 
 
+====================================
+Other code needed:
+
+Consensus clustering (link to GitHub here)
+Chronux toolbox (for spike-train spectra)
 
 
