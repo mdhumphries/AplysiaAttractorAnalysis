@@ -1,4 +1,4 @@
-##Aplysia Attractor Analysis
+Aplysia Attractor Analysis
 ============================
 
 Suite of MATLAB code for the eLife paper
@@ -54,7 +54,8 @@ Neural ensemble analysis (for classification of ensembles): https://github.com/m
 
 ### Getting started
 
-Many scripts were written to separately analyse each of the three stimulation sets (da01, da02, da03). 
+Many scripts were written to separately analyse each of the three stimulation sets (da01, da02, da03). Each will thus analyse the set (e.g. da01) specified by the user across all 10 preparations. 
+Some summary scripts load all 30 recordings together 
 
 The top-level function DataSet_Properties.m does the basic analysis used by the majority of other scripts. Run this first.
 
