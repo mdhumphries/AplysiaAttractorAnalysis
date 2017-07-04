@@ -20,9 +20,11 @@ Analysis/
 
 
 ====================================
-Other code needed:
+Uses (relevant functions are included in this toolbox):
+Consensus clustering (for detection of ensembles): https://github.com/mdhumphries/SpikeTrainCommunitiesToolBox
+Neural ensemble analysis (for classification of ensembles): https://github.com/mdhumphries/NeuralEnsembleAnalysis
 
-Consensus clustering (link to GitHub here)
-Chronux toolbox (for spike-train spectra)
+Needs:
+Chronux toolbox (for spike-train spectra): http://chronux.org/
 
 
