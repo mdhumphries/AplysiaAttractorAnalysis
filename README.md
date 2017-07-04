@@ -47,6 +47,7 @@ Chronux toolbox (for spike-train spectra): http://chronux.org/
 
 Uses (relevant functions are included in this toolbox):
 Consensus clustering (for detection of ensembles): https://github.com/mdhumphries/SpikeTrainCommunitiesToolBox
+
 Neural ensemble analysis (for classification of ensembles): https://github.com/mdhumphries/NeuralEnsembleAnalysis
 
 --- 
@@ -73,6 +74,7 @@ Ensembles/
 2. Analyse_Spike_Train_Properties.m -> Types_of_Ensemble_Across_Dataset.m -> Consistency_of_Types_Across_Programs.m
 
 P10_analysis/
+
 All: Needs output of Dimensionality_of_Projections.m from /Classify_attractors/
 1. DecodeP10_statespace.m -> Best_P10_StateSpace_GLMmodels.m
 
