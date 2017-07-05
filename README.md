@@ -79,6 +79,13 @@ P10_analysis/
 All: Needs output of Dimensionality_of_Projections.m from /Classify_attractors/
 1. DecodeP10_statespace.m -> Best_P10_StateSpace_GLMmodels.m
 
+### Bugs
+
+Found an error?
+Path wrong or missing? 
+Function not found?
+
+Flag all issues by clicking the "Issues" tab at the top of this page (next to "Code"). Raise a new Issue with your error and we will fix as we can. 
 
 
 
