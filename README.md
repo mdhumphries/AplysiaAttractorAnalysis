@@ -5,12 +5,10 @@ Suite of MATLAB code for the eLife paper
 "A spiral attractor drives rhythmic locomotion"
 Angela Bruno, Bill Frost & Mark Humphries
 
-[DOI and link to come]
+Angela M Bruno, William N Frost & Mark D Humphries (2017) A spiral attractor network drives rhythmic locomotion. eLife, 6:e27342. 
+https://elifesciences.org/articles/27342
 
-All experimental data is available at:
-
-Please cite the data as:
-[CRCNS link and DOI to come]
+All experimental data is available at the CRCNS repository: https://crcns.org/data-sets/aplysia/apl-1/about-apl-1
 
 ---
 ### Summary
